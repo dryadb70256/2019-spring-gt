@@ -28,6 +28,7 @@ node a's and b's degree_diff = -1 , node c's and d's degree_diff = 1,
 
 
 程式碼解釋: 
+
 void fetch_node_name() : 
 這個function會將建立好的graph裡面node的名字存放在我的global variable: node_name.
 
